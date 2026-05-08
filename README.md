@@ -26,8 +26,3 @@ Um projeto focado em narrativa visual e imersão.
 📧 [re174890@gmail.com](mailto:re174890@gmail.com)  
 👤 they/them
 
----
-### 📊 Estatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Bleckoutz&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleckoutz&layout=compact&theme=dark&hide_border=true)
