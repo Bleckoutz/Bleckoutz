@@ -54,7 +54,7 @@ Focado em construir sistemas robustos no back-end e interfaces que quebram a mes
 ## Principais Projetos 🚀
 Esses Projetos foram o que fiz além do ecosistema que desenvolvi como projeto estudantil, esses projetos usam a versão mais recente do mercado
 ```text
-📂 Ecossistema Alt_run
+📂 Outros projetos
  ├── 🌐 Ecomerce # um sisema feito principalmente em java 
  └── ⚙️ Portifólio # portifólio interativo estruturado em blazor e .net
 
