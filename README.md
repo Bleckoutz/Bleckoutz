@@ -42,10 +42,22 @@ Focado em construir sistemas robustos no back-end e interfaces que quebram a mes
       <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
       <br><sub><b>SQLite</b></sub>
     </td>
+ <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" height="45" alt="JAVA" />
+      <br><sub><b>Java</b></sub>
+ </td>
   </tr>
 </table>
 
 ---
+
+## Principais Projetos 🚀
+Esses Projetos foram o que fiz além do ecosistema que desenvolvi como projeto estudantil, esses projetos usam a versão mais recente do mercado
+```text
+📂 Ecossistema Alt_run
+ ├── 🌐 Ecomerce # um sisema feito principalmente em java 
+ └── ⚙️ Portifólio # portifólio interativo estruturado em blazor e .net
+
 
 ## 🚀 O Ecossistema Alt_run
 
@@ -55,3 +67,4 @@ O ecossistema **Alt_run** é o meu principal laboratório de desenvolvimento atu
 📂 Ecossistema Alt_run
  ├── 🌐 Alt_run_site  # Interface imersiva com foco em animações e experiência do usuário
  └── ⚙️ AltRun_API     # API REST em camadas com .NET 8 e autenticação JWT
+
